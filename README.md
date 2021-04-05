@@ -13,5 +13,6 @@ Reach me out on:
  
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-silva-soares-5949ba20a)](https://www.linkedin.com/in/pedro-henrique-silva-soares-5949ba20a)
 [![Gmail Badge](https://img.shields.io/badge/-ordep317@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ordep317@gmail.com)](mailto:ordep317@gmail.com)
-![Instagram Badge](https://img.shields.io/badge/-Instragram-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/slk_pedroow/)
-
+[
+![Instagram Badge](https://img.shields.io/badge/-slk_pedroow-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/slk_pedroow/)
+](https://www.instagram.com/slk_pedroow/)
